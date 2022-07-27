@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(180deg, #ab50ff 0, #7738ff 50%, #2623ee 100%);
+}
+
+.contenedor{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    color: white;
+}
